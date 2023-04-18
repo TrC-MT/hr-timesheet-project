@@ -2,7 +2,7 @@
 
 # enviroments
 
-src/enviroments/
+src/environments/
 
 # Compiled output
 /dist
